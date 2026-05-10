@@ -49,7 +49,7 @@ This project is a Java-based Banking Management System developed for the Object-
 4. Run Main.java to start the application.
 
 ## GitHub Repository
-Paste your GitHub repository link here
+https://github.com/aamirrazashaikh9-svg/Banking-Management-System-/tree/main/banking_system%20_by_aamir
 
 ## Video Demo
 https://youtu.be/oyISYURiKQ8?si=aQmY41_fRkp-t-Sk
