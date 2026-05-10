@@ -61,7 +61,7 @@ public class Transaction {
     this.toAccountId = id; 
     }
 
-    public int mgetAdminId(){ 
+    public int getAdminId(){ 
     return adminId; 
     }
 
